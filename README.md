@@ -1,6 +1,6 @@
 # Calculator-App
 
-## Este é um aplicativo da calculadora Max-Power.
+## Este é o aplicativo da calculadora Max-Power.
 
 <img src="https://github.com/bielmenezesc/calculator-app/blob/master/calculator.gif" alt="drawing" width="200"/>
 
