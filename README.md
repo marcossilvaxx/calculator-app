@@ -2,4 +2,5 @@
 
 ## Este é um aplicativo de uma calculadora.
 
-![Calculator](https://github.com/bielmenezesc/calculator-app/blob/master/calculator.gif?s=50)
+<img src="https://github.com/bielmenezesc/calculator-app/blob/master/calculator.gif" alt="drawing" width="200"/>
+
