@@ -4,6 +4,8 @@
 
 <img src="https://github.com/bielmenezesc/calculator-app/blob/master/calculator.gif" alt="drawing" width="200"/>
 
+Ela é uma calculadora rápida e otimizada como você nunca viu, pode ter certeza que você vai se arrepender de não usá-la!! ;) 
+
 ## Autores
 
 * **Marcos Silva** - *Base do programa implementado*
